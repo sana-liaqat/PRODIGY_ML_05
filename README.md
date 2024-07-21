@@ -1,6 +1,6 @@
 # PRODIGY_ML_05
 
-**Food Image Classification with DenseNet201 by Sana Liaqat**
+# Food Image Classification with DenseNet201 by Sana Liaqat
 
 **Overview**
 
